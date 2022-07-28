@@ -1,5 +1,13 @@
+l.fa-star{
+    color: gold;
+}
 @media screen and (max-width: 576px) {
     .login-button{
         width: 40%;
     }    
+}
+@media screen and (max-width: 992px) {
+    .login-button{
+        width: 40%;
+    }
 }
